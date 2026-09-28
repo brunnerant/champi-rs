@@ -1,0 +1,51 @@
+[
+    {
+        "nom": "écailleux",
+        "type": "aiguillons",
+        "couleur-chapeau": "brun"
+    },
+    {
+        "nom": "pied de mouton",
+        "type": "aiguillons",
+        "couleur-chapeau": "beige"
+    },
+    {
+        "nom": "bolet",
+        "type": "tubes"
+    },
+    {
+        "nom": "chanterelle",
+        "type": "plis",
+        "couleur-chapeau": "orange"
+    },
+    {
+        "nom": "amanite",
+        "type": "lames",
+        "anneau": true,
+        "volve": true,
+        "couleur-spores": "blanc"
+    },
+    {
+        "nom": "lépiote",
+        "type": "lames",
+        "anneau": true,
+        "couleur-spores": "blanc"
+    },
+    {
+        "nom": "agaric",
+        "type": "lames",
+        "anneau": true,
+        "couleur-spores": "brun"
+    },
+    {
+        "nom": "russule",
+        "type": "lames",
+        "chair": "cassante"
+    },
+    {
+        "nom": "lactaire",
+        "type": "lames",
+        "chair": "cassante",
+        "lait": true
+    }
+]
